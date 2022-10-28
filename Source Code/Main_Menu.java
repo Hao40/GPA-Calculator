@@ -29,7 +29,7 @@ public class Main_Menu implements ActionListener{
         button3.setActionCommand("exit_program");
         button3.addActionListener(this);
         button3.setAlignmentX(JButton.CENTER_ALIGNMENT);
-
+        // GPA Calculator
         label = new JLabel("GPA Calculator");
         label.setAlignmentX(JLabel.CENTER_ALIGNMENT);
         label.setFont(new Font("Arial", Font.PLAIN, 25));
